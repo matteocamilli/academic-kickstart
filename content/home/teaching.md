@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
-title = "Research"
+title = "Teaching"
 subtitle = ""
 
 [design]
@@ -50,15 +50,36 @@ subtitle = ""
  css_class = ""
 +++
 
-## Recent activities
+## Development of Data Products
 
-My main research interests cover the macro-areas of **Software Engineering**, **formal methods** and **formal Verification** with particular focus to methods and tools to improve dependability of time-dependent, adaptable and evolvable applications.
+Free University of Bozen-Bolzano, Italy. Master in Computational Data Science (LM-18).
 
-A list of my research papers can be obtained from different sources reported below.
+Total lecturing hours: 60 (teaching in English)
+
+The major aim of the course is to provide students with solid foundation on principles, methods, and techniques supporting the development process of data software products.
+
+Syllabus:
+
+- Data centric software engineering
+- Methods and practices for data product development
+- Domain engineering for data product
+- Managing the software quality of data products
+- Methods for testing
+- Maintenance of software
+
 <div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://scholar.google.it/citations?user=zFC7S-8AAAAJ&hl=en">Google scholar</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dblp.org/pers/hd/c/Camilli:Matteo">DBLP Bibliography</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/profile/Matteo_Camilli">Research Gate</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.scopus.com/authid/detail.uri?authorId=55320192900">Scopus</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://orcid.org/0000-0003-2491-5267">ORCiD</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ole.unibz.it/course/view.php?id=5715">Course webpage</a>
+</div>
+
+
+## Verification and Reliability for Dependable Systems
+
+Free University of Bozen-Bolzano, Italy. Master in Software Engineering for Information Systems (LM-18).
+
+Total lecturing hours: 20 (teaching in English)
+
+TBD.
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ole.unibz.it/course/view.php?id=6407">Course webpage</a>
 </div>

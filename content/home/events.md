@@ -50,19 +50,21 @@ subtitle = ""
  css_class = ""
 +++
 
-**SA-TTA @ ACM SAC 2020 - Program co-chair**
+## SA-TTA @ ACM SAC 2020 - Program co-chair
 
 8th ACM SAC track on Software Architecture: Theory, Technology, and Applications.
 Track of the 35th ACM/SIGAPP Symposium on Applied Computing ([SAC 2020](https://www.sigapp.org/sac/sac2020/)).
+
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dinamico2.unibg.it/sa-tta/2020/call.html">Call for papers</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/SAC_SATTA" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
 </div>
 
-**FAACS @ ECSA 2019 - Program co-chair**
+## FAACS @ ECSA 2019 - Program co-chair
 
 3rd Int. Workshop on Formal Approaches for Advanced Computing Systems (FAACS) 2019.
 Co-located with the 13th European Conference on Software Architecture ([ECSA 2019](https://ecsa2019.univ-lille.fr/)).
+
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://faacs.di.unimi.it/call.html">Call for papers</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/faacs2019" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>

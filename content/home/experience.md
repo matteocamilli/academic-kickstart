@@ -25,41 +25,44 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = ""
   description = """
-  Research group: Software and Systems Engineering
+  Research group: Software and Systems Engineering,
+  Supervisor: Prof. [Barbara Russo](http://www.inf.unibz.it/~russo/)
 
-  Teching:
+  Teaching:
 
   * Development of Data Products
   * Verification and Reliability for Dependable Systems
   """
 
 [[experience]]
-  title = "Postdoc. Research Fellow (AR)"
+  title = "Postdoc. Research Assistant (AR)"
   company = "University of Milan"
   company_url = ""
   location = "Italy"
   date_start = "2016-09-01"
   date_end = "2019-09-01"
   description = """
-  Research group: Software Engineering
+  Research group: Software Engineering,
+  Supervisor: Prof. [Carlo Bellettini](https://homes.di.unimi.it/bellettini)
 
-  Teching:
+  Teaching:
 
   * Software Engineering
   * Software Design
   """
 
 [[experience]]
-  title = "Postdoc. Research Fellow (AR)"
+  title = "Postdoc. Research Assistant (AR)"
   company = "University of Bergamo"
   company_url = ""
   location = "Italy"
   date_start = "2015-09-01"
   date_end = "2016-09-01"
   description = """
-  Research group: Software Engineering and Formal Methods
+  Research group: Software Engineering and Formal Methods,
+  Supervisor: Prof. [Angelo Gargantini](https://cs.unibg.it/gargantini/)
 
-  Teching:
+  Teaching:
 
   * Distributed Systems
   * Development of Mobile Applications
