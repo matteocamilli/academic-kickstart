@@ -18,27 +18,50 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Fellow (RTDA)"
+  company = "Free University of Bozen-Bolzano"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Italy"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Research group: Software and Systems Engineering
+
+  Teching:
+
+  * Development of Data Products
+  * Verification and Reliability for Dependable Systems
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Postdoc. Research Fellow (AR)"
+  company = "University of Milan"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Italy"
+  date_start = "2016-09-01"
+  date_end = "2019-09-01"
+  description = """
+  Research group: Software Engineering
 
+  Teching:
+
+  * Software Engineering
+  * Software Design
+  """
+
+[[experience]]
+  title = "Postdoc. Research Fellow (AR)"
+  company = "University of Bergamo"
+  company_url = ""
+  location = "Italy"
+  date_start = "2015-09-01"
+  date_end = "2016-09-01"
+  description = """
+  Research group: Software Engineering and Formal Methods
+
+  Teching:
+
+  * Distributed Systems
+  * Development of Mobile Applications
+  """
 +++
