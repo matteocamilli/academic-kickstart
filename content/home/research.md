@@ -52,7 +52,17 @@ subtitle = ""
 
 ## Recent activities
 
-My main research interests cover the macro-areas of **Software Engineering**, **formal methods** and **formal Verification** with particular focus to methods and tools to improve dependability of time-dependent, adaptable and evolvable applications.
+My main research interests cover the macro-areas of **formal methods** and **software engineering** with particular focus on:
+
+- Software requirements specification, analysis and verification;
+- Model-based testing;
+- Uncertainty quantification along the software lifecycle;
+- Design-time and runtime verification;
+- Formal modeling using Markov models;
+
+and the application of methodologies, theories, approaches and techniques specific
+to the above research areas to complex, advanced, distributed, time-dependent,
+service-oriented, component-based and self-adaptive systems.
 
 A list of my research papers can be obtained from different sources reported below.
 <div class="btn-links">
