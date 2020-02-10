@@ -50,6 +50,12 @@ subtitle = ""
  css_class = ""
 +++
 
+## Model-based testing under uncertainty
+
+Gran Sasso Science Institute (GSSI), Italy. Formal methods at work, PhD course.
+
+Material and schedule [here](https://github.com/matteocamilli/mbt-uncertainty-gssi).
+
 ## Development of Data Products
 
 Free University of Bozen-Bolzano, Italy. Master in Computational Data Science (LM-18).
