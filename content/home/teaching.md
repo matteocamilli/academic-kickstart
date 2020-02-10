@@ -56,6 +56,18 @@ Gran Sasso Science Institute (GSSI), Italy. Formal methods at work, PhD course.
 
 Material and schedule [here](https://github.com/matteocamilli/mbt-uncertainty-gssi).
 
+## Verification and Reliability for Dependable Systems
+
+Free University of Bozen-Bolzano, Italy. Master in Software Engineering for Information Systems (LM-18).
+
+Total lecturing hours: 20 (teaching in English)
+
+TBD.
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ole.unibz.it/course/view.php?id=6407">Course webpage</a>
+</div>
+
 ## Development of Data Products
 
 Free University of Bozen-Bolzano, Italy. Master in Computational Data Science (LM-18).
@@ -75,17 +87,4 @@ Syllabus:
 
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ole.unibz.it/course/view.php?id=5715">Course webpage</a>
-</div>
-
-
-## Verification and Reliability for Dependable Systems
-
-Free University of Bozen-Bolzano, Italy. Master in Software Engineering for Information Systems (LM-18).
-
-Total lecturing hours: 20 (teaching in English)
-
-TBD.
-
-<div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ole.unibz.it/course/view.php?id=6407">Course webpage</a>
 </div>
