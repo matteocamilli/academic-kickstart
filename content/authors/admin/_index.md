@@ -74,4 +74,6 @@ user_groups:
 Matteo received the PhD degree in Computer Science from the University of Milan in 2015. His dissertation focused on the combination of advanced abstraction techniques and big data approaches to tackle the state explosion problem in formal verification. His current research activity focuses on Formal Methods and Software Engineering.
 He is especially interested in: uncertainty quantification in software development; model-based testing techniques; methods and tools to improve dependability of adaptable and evolvable time-dependent applications. He publishes papers in international journals and in proceedings of international conferences. He serves as member of the program committee of international conferences.
 
-[Complete CV](cv.pdf)
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="cv.pdf">Complete CV</a>
+</div>
