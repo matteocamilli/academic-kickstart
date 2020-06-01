@@ -50,6 +50,27 @@ subtitle = ""
  css_class = ""
 +++
 
+## FAACS @ ECSA 2020 - Program co-chair
+
+4th International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) 2020.
+Co-located with the 14th European Conference on Software Architecture ([ECSA 2020](https://ecsa2020.disim.univaq.it/)).
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://faacs-workshop.github.io/2020/">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/faacs_ws" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
+## ISE School 2020 - Organizing committee
+
+6th International Summer School on Software Engineering 2020. July 1-3, 2020 Bolzano, South-Tyrol, Italy.
+the main theme is "AI and Continuous Software Engineering".
+The school is organized by the Software and Systems Engineering Research Group of the Free University of Bozen-Bolzano (Italy) and the Department of Computer Science of the University of Innsbruck (Austria). The school is intended both for researchers and practitioners.
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://seschool-series.github.io/2020/">Website</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ISE_School" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
 ## SA-TTA @ ACM SAC 2020 - Program co-chair
 
 8th ACM SAC track on Software Architecture: Theory, Technology, and Applications.
