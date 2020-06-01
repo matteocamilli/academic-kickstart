@@ -54,6 +54,14 @@ subtitle = ""
 
 Gran Sasso Science Institute (GSSI), Italy. Formal methods at work, PhD course.
 
+Topics:
+
+- Markov Decision Process (MDP)
+- Model-based testing (MBT)
+- conformance relation
+- online MBT under uncertainty
+- test case generation strategies
+
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/matteocamilli/mbt-uncertainty-gssi">Material and Schedule</a>
 </div>
