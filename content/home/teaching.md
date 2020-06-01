@@ -54,7 +54,10 @@ subtitle = ""
 
 Gran Sasso Science Institute (GSSI), Italy. Formal methods at work, PhD course.
 
-Material and schedule [here](https://github.com/matteocamilli/mbt-uncertainty-gssi).
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/matteocamilli/mbt-uncertainty-gssi">Material and Schedule</a>
+</div>
+
 
 ## Verification and Reliability for Dependable Systems
 
@@ -62,7 +65,13 @@ Free University of Bozen-Bolzano, Italy. Master in Software Engineering for Info
 
 Total lecturing hours: 20 (teaching in English)
 
-TBD.
+Syllabus:
+
+- Dependable properties of systems
+- Software and software systems testing
+- Techniques for verification of software systems
+- Advances in test design and implementation
+- HW and SW reliability and their models
 
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ole.unibz.it/course/view.php?id=6407">Course webpage</a>
