@@ -63,7 +63,8 @@ Co-located with the 14th European Conference on Software Architecture ([ECSA 202
 ## ISE School 2020 - Organizing committee
 
 6th International Summer School on Software Engineering 2020. July 1-3, 2020 Bolzano, South-Tyrol, Italy.
-the main theme is "AI and Continuous Software Engineering".
+The main theme is "AI and Continuous Software Engineering".
+
 The school is organized by the Software and Systems Engineering Research Group of the Free University of Bozen-Bolzano (Italy) and the Department of Computer Science of the University of Innsbruck (Austria). The school is intended both for researchers and practitioners.
 
 <div class="btn-links">
