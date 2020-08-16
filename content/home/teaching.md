@@ -94,7 +94,8 @@ Total lecturing hours: 60 (teaching in English)
 Syllabus:
 
 - Principles of system estimation
-- Tools and techniques for system estimating  Continuous development and DevOps
+- Tools and techniques for system estimating
+- Continuous development and DevOps
 - Continuous integration and deployment
 - Operations and monitoring
 - Performance engineering
@@ -103,7 +104,7 @@ Syllabus:
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="">Course webpage</a>
 </div>
 
-## Development of Data Products (a.y. 2019/2020)
+## Development of Data Products (a.y. 2019-2020)
 
 Free University of Bozen-Bolzano, Italy. Master in Computational Data Science (LM-18).
 
