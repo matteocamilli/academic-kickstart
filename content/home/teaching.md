@@ -85,22 +85,29 @@ Syllabus:
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ole.unibz.it/course/view.php?id=6407">Course webpage</a>
 </div>
 
-## Development of Data Products
+## Systems Engineering
 
 Free University of Bozen-Bolzano, Italy. Master in Computational Data Science (LM-18).
 
 Total lecturing hours: 60 (teaching in English)
 
-The major aim of the course is to provide students with solid foundation on principles, methods, and techniques supporting the development process of data software products.
-
 Syllabus:
 
-- Data centric software engineering
-- Methods and practices for data product development
-- Domain engineering for data product
-- Managing the software quality of data products
-- Methods for testing
-- Maintenance of software
+- Principles of system estimation
+- Tools and techniques for system estimating  Continuous development and DevOps
+- Continuous integration and deployment
+- Operations and monitoring
+- Performance engineering
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="">Course webpage</a>
+</div>
+
+## Development of Data Products (a.y. 2019/2020)
+
+Free University of Bozen-Bolzano, Italy. Master in Computational Data Science (LM-18).
+
+Total lecturing hours: 60 (teaching in English)
 
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ole.unibz.it/course/view.php?id=5715">Course webpage</a>
