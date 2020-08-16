@@ -50,6 +50,16 @@ subtitle = ""
  css_class = ""
 +++
 
+## SA-TTA @ ACM SAC 2021 - Program co-chair
+
+9th ACM SAC track on Software Architecture: Theory, Technology, and Applications.
+Track of the 36th ACM/SIGAPP Symposium on Applied Computing ([SAC 2021](https://www.sigapp.org/sac/sac2021/)).
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dinamico2.unibg.it/sa-tta/2021/">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/SAC_SATTA" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
 ## FAACS @ ECSA 2020 - Program co-chair
 
 4th International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) 2020.
