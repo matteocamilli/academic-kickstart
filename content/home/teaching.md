@@ -87,7 +87,7 @@ Syllabus:
 
 ## Systems Engineering
 
-Free University of Bozen-Bolzano, Italy. Master in Computational Data Science (LM-18).
+Free University of Bozen-Bolzano, Italy. Bachelor in Computer Science (L-31).
 
 Total lecturing hours: 60 (teaching in English)
 

@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
   Teaching:
 
-  * Development of Data Products
+  * Systems Engineering
   * Verification and Reliability for Dependable Systems
   """
 
