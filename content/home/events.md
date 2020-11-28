@@ -50,6 +50,16 @@ subtitle = ""
  css_class = ""
 +++
 
+## AI4DevOps Track @ 47th EUROMICRO SEAA Conference 2021 - PC member
+
+47th EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA) 2021.
+Technical track AI4DevOps: AI-Enabled Software Development and Operations.
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="#">Call for papers</a>
+</div>
+
+
 ## SA-TTA @ ACM SAC 2021 - Program co-chair
 
 9th ACM SAC track on Software Architecture: Theory, Technology, and Applications.
