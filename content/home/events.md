@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## AI4DevOps Track @ 47th EUROMICRO SEAA Conference 2021 - PC member
+## AI4DevOps @ EUROMICRO SEAA 2021 - PC member
 
 47th EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA) 2021.
 Technical track AI4DevOps: AI-Enabled Software Development and Operations.
