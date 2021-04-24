@@ -50,6 +50,17 @@ subtitle = ""
  css_class = ""
 +++
 
+## FAACS @ ECSA 2021 - Program co-chair
+
+5th International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) 2021.
+Special interest in AI-based systems.
+Co-located with the 15th European Conference on Software Architecture ([ECSA 2021](https://conf.researchr.org/home/ecsa-2021)).
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://faacs-workshop.github.io/2021/">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/faacs_ws" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
 ## AI4DevOps @ EUROMICRO SEAA 2021 - PC member
 
 47th EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA) 2021.
