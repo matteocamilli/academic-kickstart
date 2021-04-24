@@ -67,7 +67,7 @@ Co-located with the 15th European Conference on Software Architecture ([ECSA 202
 Technical track AI4DevOps: AI-Enabled Software Development and Operations.
 
 <div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="#">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dsd-seaa2021.unipv.it/seaa/AI4DevOps.html?sec=track_dslmbd">Call for papers</a>
 </div>
 
 
