@@ -50,6 +50,29 @@ subtitle = ""
  css_class = ""
 +++
 
+## SA-TTA @ ACM SAC 2022 - Program co-chair
+
+10th ACM SAC track on Software Architecture: Theory, Technology, and Applications.
+Track of the 37th ACM/SIGAPP Symposium on Applied Computing ([SAC 2022](https://www.sigapp.org/sac/sac2022/)).
+
+Special Issue: selected papers from the technical track will be considered for a Special Issue on "Architecting Dependable Multi-Paradigm Computing Systems" in the Journal Computing edited by Springer (JCR IF 2.220). More info [HERE](https://www.springer.com/journal/607/updates/19611520).
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://foselab.unibg.it/sa-tta/2022/">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/SAC_SATTA" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
+## ISE School 2021 - Organizing committee
+
+7th International Summer School on Software Engineering 2020. September 28-29, 2021 Bolzano, South-Tyrol, Italy. The main theme is "Global Software Engineering in the Age of COVID-19".
+
+The school is organized by the Software and Systems Engineering Research Group of the Free University of Bozen-Bolzano (Italy) and the Department of Computer Science of the University of Innsbruck (Austria).
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://seschool-series.github.io/2021/">Website</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ISE_School" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
 ## FAACS @ ECSA 2021 - Program co-chair
 
 5th International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) 2021.
