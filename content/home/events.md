@@ -61,6 +61,7 @@ Special Issue: selected papers from the technical track will be considered for a
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://foselab.unibg.it/sa-tta/2022/">Call for papers</a>
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.springer.com/journal/607/updates/19611520">Special Issue</a>
+</div>
 
 ## ISE School 2021 - Organizing committee
 
