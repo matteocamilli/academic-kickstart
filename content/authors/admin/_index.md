@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research fellow, Software Engineering
+role: Assistant Professor "Junior", Software Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ interests:
 - Software Engineering
 - Formal Methods
 - Model-based testing
-- Uncertainty Quantification
+- Uncertainty and Risk mitigation
 
 education:
   courses:
@@ -72,7 +72,7 @@ user_groups:
 ---
 
 Matteo received the PhD degree in Computer Science from the University of Milan in 2015. His dissertation focused on the combination of advanced abstraction techniques and big data approaches to tackle the state explosion problem in formal verification. His current research activity focuses on Formal Methods and Software Engineering.
-He is especially interested in: formal verification; model-based testing techniques; uncertainty quantification; integrated methods and tools to improve dependability of distributed, service-based, autonomous, cyber-physical, and AI-based system. He publishes papers in international journals and in proceedings of international conferences. He serves as member of the program committee of international conferences.
+He is especially interested in: formal verification; model-based testing techniques; uncertainty quantification; integrated methods and tools to improve dependability of distributed, service-based, autonomous, cyber-physical, and AI-based systems. He publishes papers in international journals and in proceedings of international conferences. He serves as member of the program committee of international conferences. He regularly organizes the International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) co-located with the European Conference on Software Architecture (ECSA) and the technical track on Software Architecture (SA-TTA) of the SIGAPP/ACM Symposium on Applied Computing (SAC). He his part of the organizing committee of the 19th IEEE International Conference on Software Architecture (ICSA 2022).
 
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="cv.pdf">Complete CV</a>
