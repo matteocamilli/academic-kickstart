@@ -54,11 +54,7 @@ subtitle = ""
 
 I'm the guest editor of the Special Issue on **Architecting Dependable Multi-paradigm Computing Systems** in the journal [Springer Computing](https://www.springer.com/journal/607/) (JCR IF 2.220).
 
-Important dates:
-- Submission: **May 31, 2022**
-- Expected first round of revisions: September 5, 2022
-- Expected second round of revisions: December 15, 2022
-- Expected publication: first quarter of 2023
+Submission: **May 31, 2022**
 
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.springer.com/journal/607/updates/19611520">More info</a>
