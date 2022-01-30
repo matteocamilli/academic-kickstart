@@ -50,6 +50,41 @@ subtitle = ""
  css_class = ""
 +++
 
+## Springer Computing SI
+
+I'm the guest editor of the Special Issue on **Architecting Dependable Multi-paradigm Computing Systems** in the journal [Springer Computing](https://www.springer.com/journal/607/) (JCR IF 2.220).
+
+Important dates:
+- Submission: **May 31, 2022**
+- Expected first round of revisions: September 5, 2022
+- Expected second round of revisions: December 15, 2022
+- Expected publication: first quarter of 2023
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.springer.com/journal/607/updates/19611520">More info</a>
+</div>
+
+## QUATIC 2022 - PC member
+
+15th International Conference on the Quality of Information and Communications Technology. Track: Quality Aspects in Machine Learning, AI and Data Analytics.
+
+Paper submission: **April 8, 2022**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://2022.quatic.org/home">Call for papers</a>
+</div>
+
+## AI4DevOps @ EUROMICRO SEAA 2022 - PC member
+
+48th EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA) 2022.
+Technical track AI4DevOps: AI-Enabled Software Development and Operations.
+
+Paper submission: **April 1, 2022**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dsd-seaa2022.iuma.ulpgc.es/?page_id=379/#dsd-cfp">Call for papers</a>
+</div>
+
 ## SA-TTA @ ACM SAC 2022 - Program co-chair
 
 10th ACM SAC track on Software Architecture: Theory, Technology, and Applications.
