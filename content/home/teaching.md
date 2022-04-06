@@ -50,9 +50,27 @@ subtitle = ""
  css_class = ""
 +++
 
+## Foundations of Research
+
+Free University of Bozen-Bolzano, Italy. 2nd year PhD students.
+
+12 hours module (teaching in English)
+
+Topics:
+
+- Science communication
+- Products of research
+- Ethics
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.unibz.it/en/faculties/computer-science/phd-computer-science/course-offering/">Schedule</a>
+</div>
+
 ## Model-based testing under uncertainty
 
 Gran Sasso Science Institute (GSSI), Italy. Formal methods at work, PhD course.
+
+4 hours module (teaching in English)
 
 Topics:
 
