@@ -60,6 +60,28 @@ Submission: **May 31, 2022**
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.springer.com/journal/607/updates/19611520">More info</a>
 </div>
 
+## ECSA 2022 (Tools & Demos) - PC member
+
+16th European Conference on Software Architecture (ECSA). Track: Tools & Demos.
+
+Paper submission: **July 1, 2022**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/track/ecsa-2022/ecsa-2022-tools---demos">Call for papers</a>
+</div>
+
+## FAACS @ ECSA 2022 - Steering committee
+
+The 6th International Workshop on Formal Approaches for Advanced Computing Systems.
+Co-located with the 16th European Conference on Software Architecture ([ECSA 2022](https://conf.researchr.org/home/ecsa-2022)).
+
+Paper submission: **July 1, 2022**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://faacs-workshop.github.io/">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/faacs_ws" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
 ## QUATIC 2022 - PC member
 
 15th International Conference on the Quality of Information and Communications Technology. Track: Quality Aspects in Machine Learning, AI and Data Analytics.
