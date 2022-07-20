@@ -50,6 +50,28 @@ subtitle = ""
  css_class = ""
 +++
 
+
+## IEEE ICSA 2023 - Poster track chair
+
+20th IEEE International Conference on Software Architecture (ICSA). Poster Track.
+
+Paper submission: **TBA**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="">Call for papers</a>
+</div>
+
+## SEAMS 2023 - Organizing committee
+
+18th Symposium on Software Engineering for Adaptive and Self-Managing Systems (co-located with ICSE 2023).
+
+Paper submission: **TBA**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/track/seams-2023/seams-2023-research-track">Call for papers</a>
+</div>
+
+
 ## Springer Computing SI
 
 I'm the guest editor of the Special Issue on **Architecting Dependable Multi-paradigm Computing Systems** in the journal [Springer Computing](https://www.springer.com/journal/607/) (JCR IF 2.220).
