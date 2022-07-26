@@ -58,17 +58,19 @@ subtitle = ""
 Paper submission: **TBA**
 
 <div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icsa-conferences.org/2023/">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ICSAconf" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
 </div>
 
 ## SEAMS 2023 - Organizing committee
 
 18th Symposium on Software Engineering for Adaptive and Self-Managing Systems (co-located with ICSE 2023).
 
-Paper submission: **TBA**
+Paper submission: **October 1, 2022**
 
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/track/seams-2023/seams-2023-research-track">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/SEAMSconf" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
 </div>
 
 
