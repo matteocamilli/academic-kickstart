@@ -50,6 +50,23 @@ subtitle = ""
  css_class = ""
 +++
 
+## Software Engineering II
+
+Politecnico di Milano, Italy. Master in Computer Science and Engineering.
+
+50 hours (teaching in English)
+
+Topics:
+
+- Requirements Engineering
+- Design
+- Middleware
+- Verification & Validation
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://webeep.polimi.it/course/view.php?id=9008">Webeep</a>
+</div>
+
 ## Foundations of Research
 
 Free University of Bozen-Bolzano, Italy. 2nd year PhD students.
