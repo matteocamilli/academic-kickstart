@@ -55,7 +55,7 @@ subtitle = ""
 
 20th IEEE International Conference on Software Architecture (ICSA). Poster Track.
 
-Paper submission: **TBA**
+Paper submission: **December 9, 2022** (abstract: December 5, 2022)
 
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icsa-conferences.org/2023/">Call for papers</a>
@@ -71,6 +71,18 @@ Paper submission: **October 1, 2022**
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/track/seams-2023/seams-2023-research-track">Call for papers</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/SEAMSconf" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
+## SA-TTA @ ACM SAC 2023 - Program co-chair
+
+11th ACM SAC track on Software Architecture: Theory, Technology, and Applications.
+Track of the 37th ACM/SIGAPP Symposium on Applied Computing ([SAC 2023](https://www.sigapp.org/sac/sac2023/)).
+
+Paper submission: **October 15, 2022 (extended)**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://foselab.unibg.it/sa-tta/2023/">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/SAC_SATTA" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
 </div>
 
 

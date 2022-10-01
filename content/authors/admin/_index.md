@@ -15,7 +15,7 @@ role: Assistant Professor "Senior", Software Engineering
 # Organizations/Affiliations
 organizations:
 - name: DEIB, Politecnico di Milano, Italy
-  url: "https://www.deib.polimi.it/ita/home"
+  url: "https://www.deib.polimi.it/eng/home-page"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include software engineering and formal methods.
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:matteo.camilli@unibz.it'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:matteo.camilli@polimi.it'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/matteocamilli
