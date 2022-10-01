@@ -55,7 +55,8 @@ subtitle = ""
 
 20th IEEE International Conference on Software Architecture (ICSA). Poster Track.
 
-Paper submission: **December 9, 2022** (abstract: December 5, 2022)
+Abstract: **December 5, 2022**
+Paper submission: **December 9, 2022**
 
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icsa-conferences.org/2023/">Call for papers</a>
