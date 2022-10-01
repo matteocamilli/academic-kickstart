@@ -18,6 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Professor Senior (RTDB)"
+  company = "Politecnico di Milano"
+  company_url = ""
+  location = "Italy"
+  date_start = "2022-10-03"
+  date_end = ""
+  description = """
+  Research group: DEpendable Evolvable Pervasive Software Engineering (DeepSE)
+
+  Teaching:
+
+  * Software Engineering II
+  * Algoritmi e Principi dell'Informatica (Italian)
+  """
+
+[[experience]]
   title = "Assistant Professor Junior (RTDA)"
   company = "Free University of Bozen-Bolzano"
   company_url = ""
@@ -35,7 +51,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Postdoc. Research Assistant (AR)"
+  title = "Postdoc. Researcher"
   company = "University of Milan"
   company_url = ""
   location = "Italy"
@@ -52,7 +68,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Postdoc. Research Assistant (AR)"
+  title = "Postdoc. Researcher"
   company = "University of Bergamo"
   company_url = ""
   location = "Italy"

@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor "Junior", Software Engineering
+role: Assistant Professor "Senior", Software Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Free University of Bozen-Bolzano, Italy
-  url: "https://www.unibz.it/en/faculties/computer-science/"
+- name: DEIB, Politecnico di Milano, Italy
+  url: "https://www.deib.polimi.it/ita/home"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include software engineering and formal methods.
@@ -71,5 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Matteo received the PhD degree in Computer Science from the University of Milan in 2015. His dissertation focused on the combination of advanced abstraction techniques and big data approaches to tackle the state explosion problem in formal verification. His current research activity focuses on Formal Methods and Software Engineering.
-He is especially interested in: formal verification; model-based testing techniques; uncertainty quantification; integrated methods and tools to improve dependability of distributed, service-based, autonomous, cyber-physical, and AI-based systems. He publishes papers in international journals and in proceedings of international conferences. He serves as member of the program committee of international conferences. He regularly organizes the International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) co-located with the European Conference on Software Architecture (ECSA) and the technical track on Software Architecture (SA-TTA) of the SIGAPP/ACM Symposium on Applied Computing (SAC). He his part of the organizing committee of the IEEE International Conference on Software Architecture (ICSA 2022, ICSA 2023) and the Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2023).
+Matteo received the PhD degree in Computer Science from the University of Milan in 2015 under the supervision of Prof. Carlo Bellettini. His dissertation focused on the combination of advanced abstraction techniques and big data approaches to tackle the state explosion problem in formal verification.
+Matteo is currently an Assistant Professor "Senior" at the Politecnico di Milano (Italy). His current research activity focuses on Formal Methods and Software Engineering.
+He is especially interested in: software verification; model-based testing techniques; uncertainty quantification; integrated methods and tools to improve dependability of distributed, service-based, autonomous, cyber-physical, and AI-based systems. He publishes papers in international journals and in proceedings of international conferences. He serves as member of the program committee of international conferences. He regularly organizes the International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) co-located with the European Conference on Software Architecture (ECSA) and the technical track on Software Architecture (SA-TTA) of the SIGAPP/ACM Symposium on Applied Computing (SAC). He his part of the organizing committee of the IEEE International Conference on Software Architecture (ICSA 2022, ICSA 2023) and the Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2023).
