@@ -64,7 +64,7 @@ Topics:
 - Verification & Validation
 
 <div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://webeep.polimi.it/course/view.php?id=9008">Webeep</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://webeep.polimi.it/course/view.php?id=9008">Material and schedule</a>
 </div>
 
 ## Foundations of Research
