@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Italy"
   date_start = "2019-10-01"
-  date_end = ""
+  date_end = "2022-09-30"
   description = """
   Research group: Software and Systems Engineering,
   Supervisor: Prof. [Barbara Russo](http://www.inf.unibz.it/~russo/)
