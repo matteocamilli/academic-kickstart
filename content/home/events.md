@@ -51,6 +51,93 @@ subtitle = ""
 +++
 
 
+## IEEE ICSA 2024 - Organizing commettee
+
+21th IEEE International Conference on Software Architecture (ICSA).
+
+Paper submission: **TBD**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/home/icsa-2024">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ICSAconf" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
+## SA-TTA @ ACM SAC 2024 - Program co-chair
+
+12th ACM SAC track on Software Architecture: Theory, Technology, and Applications.
+Track of the 38th ACM/SIGAPP Symposium on Applied Computing ([SAC 2024](https://www.sigapp.org/sac/sac2024/)).
+
+Paper submission: **September 15, 2023**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://foselab.unibg.it/sa-tta/2024/">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/SAC_SATTA" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
+## FAACS @ ECSA 2023 - Steering committee
+
+7th International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) 2023.
+Co-located with the 17th European Conference on Software Architecture ([ECSA 2023](https://conf.researchr.org/home/ecsa-2023)).
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://faacs-workshop.github.io/2023/">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/faacs2019" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
+## QUATIC 2023 (V&V track) -  Program co-chair
+
+ International Conference on the Quality of Information and Communications Technology (QUATIC). Verification and Validation track.
+
+Paper submission: **May 29, 2023**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://2023.quatic.org/">Call for papers</a>
+</div>
+
+## ICTSS 2023 - PC member
+
+35th International Conference on Testing Software and Systems (IFIP-ICTSS).
+
+Paper submission: **May 20, 2023**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/track/ictss-2023/ictss-2023#Call-for-Papers">Call for papers</a>
+</div>
+
+
+## SEAA 2023 - PC member
+
+Euromicro Conference on Software Engineering and Advanced Applications (SEAA 2023). Data and AI Driven Engineering track.
+
+Paper submission: **May 15, 2023**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dsd-seaa2023.com/daide/">Call for papers</a>
+</div>
+
+
+## EASE 2023 - PC member
+
+27th International Conference on Evaluation and Assessment in Software Engineering (EASE). Short papers track.
+
+Short paper submission: **March 13, 2023**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/track/ease-2023/ease-2023-short-papers-and-posters?#Call-for-papers">Call for papers</a>
+</div>
+
+
+## ECSA 2023 - PC member
+
+17th European Conference on Software Architecture (ECSA).
+
+Paper submission: **May 11, 2023 (Extended)**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/track/ecsa-2023/ecsa-2023-research-papers">Call for papers</a>
+</div>
+
+
 ## IEEE ICSA 2023 - Poster track chair
 
 20th IEEE International Conference on Software Architecture (ICSA). Poster Track.
