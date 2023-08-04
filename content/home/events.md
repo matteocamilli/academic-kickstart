@@ -55,7 +55,7 @@ subtitle = ""
 
 21th IEEE International Conference on Software Architecture (ICSA).
 
-Paper submission: **TBD**
+Paper submission: **December 1, 2023 (abstract Nov 24, 2023)**
 
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/home/icsa-2024">Call for papers</a>
