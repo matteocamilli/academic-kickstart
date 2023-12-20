@@ -51,6 +51,29 @@ subtitle = ""
 +++
 
 
+## ICSE 2025 - Program commettee
+
+47th International Conference on Software Engineering (ICSE 2025).
+
+Paper submission (1st cycle): **Mar 22, 2024 (abstract Mar 15, 2024)**
+Paper submission (2nd cycle): **Aug 2, 2024 (abstract Jul 26, 2024)**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/home/icse-2025">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ICSEconf" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
+## ECSA 2024 - Organizing commettee
+
+18th European Conference on Software Architecture (ECSA).
+
+Paper submission: **April 11, 2024**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/home/ecsa-2024">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ECSACONF" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
 ## IEEE ICSA 2024 - Organizing commettee
 
 21th IEEE International Conference on Software Architecture (ICSA).
@@ -60,6 +83,16 @@ Paper submission: **December 1, 2023 (abstract Nov 24, 2023)**
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/home/icsa-2024">Call for papers</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ICSAconf" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
+## FAACS @ ICSA 2024 - Steering committee
+
+8th International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) 2024.
+Co-located with the 21th IEEE International Conference on Software Architecture (ICSA).
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://faacs-workshop.github.io/2024/">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/faacs_ws" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
 </div>
 
 ## SA-TTA @ ACM SAC 2024 - Program co-chair
@@ -81,7 +114,7 @@ Co-located with the 17th European Conference on Software Architecture ([ECSA 202
 
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://faacs-workshop.github.io/2023/">Call for papers</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/faacs2019" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/faacs_ws" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
 </div>
 
 ## QUATIC 2023 (V&V track) -  Program co-chair
