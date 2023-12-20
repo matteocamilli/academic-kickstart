@@ -55,7 +55,7 @@ subtitle = ""
 
 47th International Conference on Software Engineering (ICSE 2025).
 
-Paper submission (1st cycle): **Mar 22, 2024 (abstract Mar 15, 2024)**
+Paper submission (1st cycle): **Mar 22, 2024 (abstract Mar 15, 2024)**  
 Paper submission (2nd cycle): **Aug 2, 2024 (abstract Jul 26, 2024)**
 
 <div class="btn-links">
