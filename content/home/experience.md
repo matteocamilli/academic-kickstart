@@ -29,8 +29,8 @@ date_format = "Jan 2006"
 
   Teaching:
 
-  * Software Engineering II
-  * Algoritmi e Principi dell'Informatica (Italian)
+  * Software Engineering 2
+  * Software Engineering for Automation
   """
 
 [[experience]]
