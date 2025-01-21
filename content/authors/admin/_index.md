@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor "Senior", Software Engineering
+role: Associate Professor, Software Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,12 @@ organizations:
   url: "https://www.deib.polimi.it/eng/home-page"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include software engineering and formal methods.
+bio: My research interests include software engineering and software verification.
 
 interests:
 - Software Engineering
-- Formal Methods
-- Model-based testing
-- Uncertainty and Risk mitigation
+- Software verification
+- Automated testing
 
 education:
   courses:
@@ -72,5 +71,5 @@ user_groups:
 ---
 
 Matteo received the PhD degree in Computer Science from the University of Milan in 2015 under the supervision of Prof. Carlo Bellettini. His dissertation focused on the combination of advanced abstraction techniques and big data approaches to tackle the state explosion problem in formal verification.
-Matteo is currently an Assistant Professor "Senior" at Politecnico di Milano (Italy). His current research activity focuses on Formal Methods and Software Engineering.
-He is especially interested in software verification, and testing, as well as integrated methods and tools to improve dependability of autonomous, cyber-physical, service-based, and ML-enabled critical systems. He publishes papers in international journals (e.g., TOSEM, TAAS, JSS, EMSE) and in proceedings of international conferences (e.g., IEEE ISSRE, IEEE ICST, IEEE ICSA, SEAMS, ECSA, ACM/SPEC ICPE). He serves as member of the program committee of international conferences. He is in the steering committee of the International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) co-located with the European Conference on Software Architecture (ECSA). He regularly organizes the technical track on Software Architecture (SA-TTA) of the SIGAPP/ACM Symposium on Applied Computing (SAC). He is part of the organizing committee of relevant international conferences in the field of software engineering, such as ECSA (2024) IEEE ICSA (2022, 2023, 2024), SEAMS (SEAMS 2023), QUATIC (2023), and PROFES (2023).
+Matteo is currently an Associate Professor at Politecnico di Milano. His current research activity focuses on software engineering and software verification.
+He is especially interested in software verification, and testing, as well as integrated methods and tools to improve dependability of autonomous, cyber-physical, service-based, and ML-enabled critical systems. He publishes papers in international journals (e.g., TOSEM, TAAS, JSS, EMSE) and in proceedings of international conferences (e.g., ICSE, ISSRE, ICST, ICSA, SEAMS, ECSA, ICPE). He serves as member of the program committee of prestigious international conferences (e.g., ICSE, ICSA, ICST, ECSA). He is in the steering committee of the International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) co-located with the European Conference on Software Architecture (ECSA). He regularly organizes the technical track on Software Architecture (SA-TTA) of the SIGAPP/ACM Symposium on Applied Computing (SAC). He is part of the organizing committee of relevant international conferences in the field of software engineering, such as ECSA (2024) IEEE ICSA (2022, 2023, 2024), SEAMS (SEAMS 2023), QUATIC (2023), and PROFES (2023).

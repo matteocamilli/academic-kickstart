@@ -17,6 +17,24 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Associate Professor"
+  company = "Politecnico di Milano"
+  company_url = ""
+  location = "Italy"
+  date_start = "2025-01-13"
+  date_end = ""
+  description = """
+  Research group: DEpendable Evolvable Pervasive Software Engineering (DeepSE)
+
+  Teaching:
+
+  * Software Engineering 2
+  * Software Engineering for Automation
+  * Distributed Software Development
+  """
+
 [[experience]]
   title = "Assistant Professor Senior (RTDB)"
   company = "Politecnico di Milano"
