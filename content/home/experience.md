@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Italy"
   date_start = "2022-10-03"
-  date_end = ""
+  date_end = "2025-01-12"
   description = """
   Research group: DEpendable Evolvable Pervasive Software Engineering (DeepSE)
 

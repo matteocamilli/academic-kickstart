@@ -60,6 +60,29 @@ Submission deadline: **May 30, 2024**
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#automated-testing-and-analysis-for-dependable-ai-enabled-software-and-systems">More info</a>
 </div>
 
+## ICSE 2026 - Program commettee
+
+48th International Conference on Software Engineering (ICSE 2026).
+
+Paper submission (1st cycle): **Mar 14, 2025 (abstract Mar 7, 2025)**
+Paper submission (2nd cycle): **Jul 18, 2025 (abstract Jul 11, 2025)**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/home/icse-2025">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ICSEconf" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
+## ECSA 2025 - Program commettee
+
+19th European Conference on Software Architecture (ECSA).
+
+Paper submission: **Mar 21, 2025 (abstract Mar 14, 2025)**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/track/ecsa-2025/ecsa-2025-call-for-research-papers">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ECSACONF" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
 
 ## ICSE 2025 - Program commettee
 
