@@ -55,7 +55,7 @@ subtitle = ""
 
 48th International Conference on Software Engineering (ICSE 2026).
 
-Paper submission (1st cycle): **Mar 14, 2025 (abstract Mar 7, 2025)**
+Paper submission (1st cycle): **Mar 14, 2025 (abstract Mar 7, 2025)**  
 Paper submission (2nd cycle): **Jul 18, 2025 (abstract Jul 11, 2025)**
 
 <div class="btn-links">
