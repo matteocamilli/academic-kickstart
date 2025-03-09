@@ -50,15 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-## JSS Special Issue - Guest editor
-
-I'm the guest editor of the Special Issue on **Automated Testing and Analysis for Dependable AI-enabled Software and Systems** in the journal Elsevier [JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#automated-testing-and-analysis-for-dependable-ai-enabled-software-and-systems) (JCR IF 3.5).
-
-Submission deadline: **May 30, 2024**
-
-<div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#automated-testing-and-analysis-for-dependable-ai-enabled-software-and-systems">More info</a>
-</div>
 
 ## ICSE 2026 - Program commettee
 
@@ -81,6 +72,16 @@ Paper submission: **Mar 21, 2025 (abstract Mar 14, 2025)**
 <div class="btn-links">
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/track/ecsa-2025/ecsa-2025-call-for-research-papers">Call for papers</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ECSACONF" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
+## JSS Special Issue - Guest editor
+
+I'm the guest editor of the Special Issue on **Automated Testing and Analysis for Dependable AI-enabled Software and Systems** in the journal Elsevier [JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#automated-testing-and-analysis-for-dependable-ai-enabled-software-and-systems) (JCR IF 3.5).
+
+Submission deadline: **May 30, 2024**
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#automated-testing-and-analysis-for-dependable-ai-enabled-software-and-systems">More info</a>
 </div>
 
 
