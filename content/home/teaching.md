@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## Software Engineering II
+## Software Engineering 2 (a.y. 2022-present)
 
 Politecnico di Milano, Italy. Master in Computer Science and Engineering.
 
@@ -60,14 +60,48 @@ Topics:
 
 - Requirements Engineering
 - Design
-- Middleware
+- Arctitectural styles
+- Software quality
 - Verification & Validation
 
 <div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://webeep.polimi.it/course/view.php?id=9008">Material and schedule</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://webeep.polimi.it/">Material and schedule</a>
 </div>
 
-## Foundations of Research
+## Distributed Sofwtare Development (a.y. 2024-present)
+
+Politecnico di Milano, Italy. Master in Computer Science and Engineering.
+
+50 hours (teaching in English)
+
+Topics:
+
+- Distributed development
+- Agile methodologies
+- Global SE
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://webeep.polimi.it/">Material and schedule</a>
+</div>
+
+## Software Engineering for Automation (a.y. 2022-present)
+
+Politecnico di Milano, Italy. Master in Automation Engineering.
+
+50 hours (teaching in English)
+
+Topics:
+
+- Requirements Engineering
+- Design
+- Specifications
+- Verification & Validation
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://webeep.polimi.it/">Material and schedule</a>
+</div>
+
+## Foundations of Research (a.y. 2020-2021)
 
 Free University of Bozen-Bolzano, Italy. 2nd year PhD students.
 
@@ -83,7 +117,7 @@ Topics:
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.unibz.it/en/faculties/computer-science/phd-computer-science/course-offering/">Schedule</a>
 </div>
 
-## Model-based testing under uncertainty
+## Model-based testing under uncertainty (a.y. 2020-2021)
 
 Gran Sasso Science Institute (GSSI), Italy. Formal methods at work, PhD course.
 
@@ -102,7 +136,7 @@ Topics:
 </div>
 
 
-## Verification and Reliability for Dependable Systems
+## Verification and Reliability for Dependable Systems (a.y. 2019-2022)
 
 Free University of Bozen-Bolzano, Italy. Master in Software Engineering for Information Systems (LM-18).
 
@@ -120,7 +154,7 @@ Syllabus:
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ole.unibz.it/course/view.php?id=6407">Course webpage</a>
 </div>
 
-## Systems Engineering
+## Systems Engineering (a.y. 2019-2022)
 
 Free University of Bozen-Bolzano, Italy. Bachelor in Computer Science (L-31).
 
