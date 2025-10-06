@@ -54,6 +54,8 @@ subtitle = ""
 
 Matteo Camilli, Elisabetta Di Nitto, Alfonso Fuggetta, Alessandro Margara, Matteo Rossi, Damian Andrew Tamburri. "Software engineering, a stuctured journey from inception to delivery" BUP 2025.
 
+![targets](/img/18991585.jpg)
+
 Available in bookstores from: **Oct 3, 2025** 
 
 <div class="btn-links">
