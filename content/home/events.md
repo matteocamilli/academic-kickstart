@@ -50,6 +50,39 @@ subtitle = ""
  css_class = ""
 +++
 
+## NEW Textbook - now available
+
+Matteo Camilli, Elisabetta Di Nitto, Alfonso Fuggetta, Alessandro Margara, Matteo Rossi, Damian Andrew Tamburri. "Software engineering, a stuctured journey from inception to delivery" BUP 2025.
+
+Available in bookstores from: **Oct 3, 2025** 
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.egeaeditore.it/ita/prodotti/ict-e-sistemi-informativi/software-engineering.aspx">Info</a>
+</div>
+
+
+## SANER 2026 - Program commettee
+
+The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering.
+
+Paper submission: **Oct 16, 2025 (abstract Oct 9, 2025)** 
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/track/saner-2026/saner-2026-papers">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://x.com/SANERconf" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
+
+
+## SEAMS 2026 - Program commettee
+
+21st International Conference on Software Engineering for Adaptive and Self-Managing Systems.
+
+Paper submission: **Oct 23, 2025 (abstract Oct 16, 2025)** 
+
+<div class="btn-links">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/track/seams-2026/seams-2026-research-track">Call for papers</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://x.com/SEAMSconf" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
+</div>
 
 ## ICSE 2026 - Program commettee
 
@@ -62,6 +95,7 @@ Paper submission (2nd cycle): **Jul 18, 2025 (abstract Jul 11, 2025)**
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conf.researchr.org/home/icse-2025">Call for papers</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ICSEconf" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
 </div>
+
 
 ## ECSA 2025 - Program commettee
 
@@ -304,88 +338,4 @@ Special Issue: selected papers from the technical track will be considered for a
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://foselab.unibg.it/sa-tta/2022/">Call for papers</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.springer.com/journal/607/updates/19611520">Special Issue</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/SAC_SATTA" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
-</div>
-
-## ISE School 2021 - Organizing committee
-
-7th International Summer School on Software Engineering 2020. September 28-29, 2021 Bolzano, South-Tyrol, Italy. The main theme is "Global Software Engineering in the Age of COVID-19".
-
-The school is organized by the Software and Systems Engineering Research Group of the Free University of Bozen-Bolzano (Italy) and the Department of Computer Science of the University of Innsbruck (Austria).
-
-<div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://seschool-series.github.io/2021/">Website</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ISE_School" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
-</div>
-
-## FAACS @ ECSA 2021 - Program co-chair
-
-5th International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) 2021.
-Special interest in AI-based systems.
-Co-located with the 15th European Conference on Software Architecture ([ECSA 2021](https://conf.researchr.org/home/ecsa-2021)).
-
-<div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://faacs-workshop.github.io/2021/">Call for papers</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/faacs_ws" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
-</div>
-
-## AI4DevOps @ EUROMICRO SEAA 2021 - PC member
-
-47th EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA) 2021.
-Technical track AI4DevOps: AI-Enabled Software Development and Operations.
-
-<div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dsd-seaa2021.unipv.it/seaa/AI4DevOps.html?sec=track_dslmbd">Call for papers</a>
-</div>
-
-
-## SA-TTA @ ACM SAC 2021 - Program co-chair
-
-9th ACM SAC track on Software Architecture: Theory, Technology, and Applications.
-Track of the 36th ACM/SIGAPP Symposium on Applied Computing ([SAC 2021](https://www.sigapp.org/sac/sac2021/)).
-
-<div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dinamico2.unibg.it/sa-tta/2021/">Call for papers</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/SAC_SATTA" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
-</div>
-
-## FAACS @ ECSA 2020 - Program co-chair
-
-4th International Workshop on Formal Approaches for Advanced Computing Systems (FAACS) 2020.
-Co-located with the 14th European Conference on Software Architecture ([ECSA 2020](https://ecsa2020.disim.univaq.it/)).
-
-<div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://faacs-workshop.github.io/2020/">Call for papers</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/faacs_ws" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
-</div>
-
-## ISE School 2020 - Organizing committee
-
-6th International Summer School on Software Engineering 2020. July 1-3, 2020 Bolzano, South-Tyrol, Italy.
-The main theme is "AI and Continuous Software Engineering".
-
-The school is organized by the Software and Systems Engineering Research Group of the Free University of Bozen-Bolzano (Italy) and the Department of Computer Science of the University of Innsbruck (Austria). The school is intended both for researchers and practitioners.
-
-<div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://seschool-series.github.io/2020/">Website</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/ISE_School" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
-</div>
-
-## SA-TTA @ ACM SAC 2020 - Program co-chair
-
-8th ACM SAC track on Software Architecture: Theory, Technology, and Applications.
-Track of the 35th ACM/SIGAPP Symposium on Applied Computing ([SAC 2020](https://www.sigapp.org/sac/sac2020/)).
-
-<div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dinamico2.unibg.it/sa-tta/2020/call.html">Call for papers</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/SAC_SATTA" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
-</div>
-
-## FAACS @ ECSA 2019 - Program co-chair
-
-3rd Int. Workshop on Formal Approaches for Advanced Computing Systems (FAACS) 2019.
-Co-located with the 13th European Conference on Software Architecture ([ECSA 2019](https://ecsa2019.univ-lille.fr/)).
-
-<div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://faacs.di.unimi.it/call.html">Call for papers</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/faacs2019" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a>
 </div>
